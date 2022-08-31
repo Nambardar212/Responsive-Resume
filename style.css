@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+     list-style: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
 }
 
@@ -74,7 +75,7 @@ section{
     font-size: 1.5em;
     margin: 0;
     background-color: white;
-    list-style: none;
+    
 }
 .social-media .icon{
     padding: 15px;
@@ -84,7 +85,7 @@ section{
      color: white;
      margin: 0;
      padding-top: 20px;
-     list-style: none;
+     
 }
 .personal-details .icon{
     letter-spacing: 0.09px;
